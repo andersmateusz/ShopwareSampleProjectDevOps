@@ -1,0 +1,8 @@
+{
+    "name": "andm/shopware-sample-project",
+    "type": "metapackage",
+    "license": "MIT",
+    "require": {
+        "andm/example-shopware-plugin-0": "*"
+    }
+}
